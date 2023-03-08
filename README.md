@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Olá! Eu sou o Gabriel de Jesus 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-de-jesus-araújo-4a1315234) <a href = "mailto:contatogabrieldejesusaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
